@@ -1,0 +1,117 @@
+{"level":"info","message":"::1 - - [17/Oct/2024:15:47:26 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 500 1546 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-17T15:47:26.089Z"}
+{"level":"info","message":"::1 - - [17/Oct/2024:15:47:26 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 500 1546 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-17T15:47:26.193Z"}
+{"level":"info","message":"::1 - - [17/Oct/2024:15:47:58 +0000] \"POST /api/v1/user/login-user HTTP/1.1\" 500 1521 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-17T15:47:58.095Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-17T15:51:51.810Z"}
+{"level":"info","message":"::1 - - [17/Oct/2024:15:51:51 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-17T15:51:52.008Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-17T15:51:52.070Z"}
+{"level":"info","message":"::1 - - [17/Oct/2024:15:51:52 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-17T15:51:52.084Z"}
+{"level":"error","statusCode":404,"timestamp":"2024-10-17T15:52:03.937Z"}
+{"level":"info","message":"::1 - - [17/Oct/2024:15:52:03 +0000] \"POST /api/v1/user/login-user HTTP/1.1\" 404 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-17T15:52:03.941Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-17T17:43:04.525Z"}
+{"level":"info","message":"::1 - - [17/Oct/2024:17:43:04 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-17T17:43:04.659Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-17T17:43:04.870Z"}
+{"level":"info","message":"::1 - - [17/Oct/2024:17:43:04 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-17T17:43:04.876Z"}
+{"level":"error","statusCode":404,"timestamp":"2024-10-17T17:43:09.047Z"}
+{"level":"info","message":"::1 - - [17/Oct/2024:17:43:09 +0000] \"POST /api/v1/user/login-user HTTP/1.1\" 404 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-17T17:43:09.055Z"}
+{"level":"error","statusCode":404,"timestamp":"2024-10-17T17:43:13.118Z"}
+{"level":"info","message":"::1 - - [17/Oct/2024:17:43:13 +0000] \"POST /api/v1/user/login-user HTTP/1.1\" 404 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-17T17:43:13.124Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T02:01:34.929Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:01:34 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:01:34.988Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T02:01:38.004Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:01:38 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:01:38.009Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T02:05:35.543Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:05:35 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:05:35.549Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T02:05:35.556Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:05:35 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:05:35.570Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T02:05:35.815Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:05:35 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:05:35.823Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T02:05:35.832Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:05:35 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:05:35.843Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T02:05:35.912Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:05:35 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:05:35.917Z"}
+{"level":"error","statusCode":404,"timestamp":"2024-10-18T02:06:02.218Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:06:02 +0000] \"POST /api/v1/user/login-user HTTP/1.1\" 404 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:06:02.222Z"}
+{"level":"error","statusCode":404,"timestamp":"2024-10-18T02:06:03.931Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:06:03 +0000] \"POST /api/v1/user/login-user HTTP/1.1\" 404 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:06:03.935Z"}
+{"level":"error","statusCode":404,"timestamp":"2024-10-18T02:06:08.507Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:06:08 +0000] \"POST /api/v1/user/login-user HTTP/1.1\" 404 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:06:08.511Z"}
+{"level":"error","statusCode":404,"timestamp":"2024-10-18T02:06:09.897Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:06:09 +0000] \"POST /api/v1/user/login-user HTTP/1.1\" 404 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:06:09.902Z"}
+{"level":"error","statusCode":404,"timestamp":"2024-10-18T02:06:30.956Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:06:30 +0000] \"POST /api/v1/user/login-user HTTP/1.1\" 404 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:06:30.959Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T02:22:19.415Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:22:19 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:22:19.420Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T02:22:19.447Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:22:19 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:22:19.460Z"}
+{"level":"error","statusCode":404,"timestamp":"2024-10-18T02:22:29.085Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:22:29 +0000] \"POST /api/v1/user/login-user HTTP/1.1\" 404 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:22:29.091Z"}
+{"level":"error","statusCode":404,"timestamp":"2024-10-18T02:22:48.575Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:22:48 +0000] \"POST /api/v1/user/login-user HTTP/1.1\" 404 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:22:48.578Z"}
+{"level":"error","statusCode":404,"timestamp":"2024-10-18T02:22:50.984Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:22:50 +0000] \"POST /api/v1/user/login-user HTTP/1.1\" 404 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:22:50.989Z"}
+{"level":"error","statusCode":404,"timestamp":"2024-10-18T02:22:51.457Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:22:51 +0000] \"POST /api/v1/user/login-user HTTP/1.1\" 404 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:22:51.461Z"}
+{"level":"error","statusCode":404,"timestamp":"2024-10-18T02:22:52.416Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:22:52 +0000] \"POST /api/v1/user/login-user HTTP/1.1\" 404 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:22:52.421Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T02:25:57.372Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:25:57 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:25:57.376Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T02:25:57.399Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:25:57 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:25:57.405Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T02:28:28.911Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:28:28 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:28:28.919Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T02:28:28.935Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:28:28 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:28:28.940Z"}
+{"level":"error","statusCode":404,"timestamp":"2024-10-18T02:28:47.486Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:28:47 +0000] \"POST /api/v1/user/login-user HTTP/1.1\" 404 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:28:47.492Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T02:31:37.752Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:31:37 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:31:37.770Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T02:31:37.821Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:31:37 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:31:37.825Z"}
+{"level":"error","statusCode":404,"timestamp":"2024-10-18T02:32:45.596Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:32:45 +0000] \"POST /api/v1/user/login-user HTTP/1.1\" 404 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:32:45.600Z"}
+{"level":"error","statusCode":404,"timestamp":"2024-10-18T02:49:54.055Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:49:54 +0000] \"POST /api/v1/user/login-user HTTP/1.1\" 404 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:49:54.061Z"}
+{"level":"error","statusCode":404,"timestamp":"2024-10-18T02:50:00.190Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:02:50:00 +0000] \"POST /api/v1/user/login-user HTTP/1.1\" 404 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T02:50:00.193Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T05:26:08.938Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:05:26:08 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T05:26:08.975Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T05:26:09.031Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:05:26:09 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T05:26:09.034Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:05:26:27 +0000] \"POST /api/v1/user/ HTTP/1.1\" 404 152 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T05:26:27.548Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:05:26:30 +0000] \"POST /api/v1/user/ HTTP/1.1\" 404 152 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T05:26:30.646Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T06:19:46.972Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:06:19:47 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T06:19:47.057Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T06:19:47.094Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:06:19:47 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T06:19:47.206Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T06:51:05.931Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:06:51:05 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T06:51:05.936Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T06:51:05.954Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:06:51:06 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T06:51:06.110Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:06:51:09 +0000] \"POST /api/v1/user/ HTTP/1.1\" 404 152 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T06:51:09.227Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:06:51:10 +0000] \"POST /api/v1/user/ HTTP/1.1\" 404 152 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T06:51:10.383Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:06:51:11 +0000] \"POST /api/v1/user/ HTTP/1.1\" 404 152 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T06:51:11.125Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T07:07:30.977Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:07:07:31 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T07:07:31.151Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T07:07:31.209Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:07:07:31 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T07:07:31.224Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T07:07:31.237Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:07:07:31 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T07:07:31.249Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T07:07:31.329Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:07:07:31 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T07:07:31.334Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T07:07:31.366Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:07:07:31 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T07:07:31.541Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T07:07:31.566Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:07:07:31 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T07:07:31.574Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T07:07:31.584Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:07:07:31 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T07:07:31.594Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T07:07:31.604Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:07:07:31 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T07:07:31.609Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T07:24:59.366Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:07:24:59 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T07:24:59.445Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T07:24:59.478Z"}
+{"level":"info","message":"::1 - - [18/Oct/2024:07:24:59 +0000] \"GET /api/v1/user/single-admin HTTP/1.1\" 400 56 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\"","timestamp":"2024-10-18T07:24:59.486Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T07:33:37.143Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T07:33:37.335Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T07:48:58.003Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T07:48:58.067Z"}
+{"level":"error","statusCode":400,"timestamp":"2024-10-18T08:00:50.073Z"}

@@ -1,0 +1,38 @@
+.space-list-container {
+    padding: 20px;
+}
+
+.space-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: add shadow for depth */
+}
+
+.space-photos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.photo-item {
+    position: relative;
+}
+
+.photo {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.btn {
+    margin-top: 10px;
+    transition: background-color 0.3s; /* Optional: smooth transition on hover */
+}
+
+.btn:hover {
+    background-color: #0056b3; /* Change to a darker shade on hover */
+}

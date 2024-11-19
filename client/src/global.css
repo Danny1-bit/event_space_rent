@@ -1,0 +1,51 @@
+/* src/global.css */
+
+/* Réinitialisation des styles par défaut du navigateur */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif; /* Choisissez une police de base */
+    line-height: 1.6; /* Améliore la lisibilité */
+    background-color: #f9f9f9; /* Couleur de fond de l'application */
+    color: #333; /* Couleur du texte */
+  }
+  
+  /* Styles globaux pour les titres */
+  h1, h2, h3, h4, h5, h6 {
+    margin: 10px 0; /* Marge autour des titres */
+    color: #2c3e50; /* Couleur des titres */
+  }
+  
+  /* Styles pour les boutons */
+  button {
+    cursor: pointer; /* Curseur en forme de main */
+    border: none;
+    border-radius: 5px; /* Bords arrondis */
+  }
+  
+  /* Ajoutez d'autres styles globaux selon vos besoins */
+  /* Dans votre fichier global.css ou un fichier de styles pour les toasts */
+.Toastify__toast {
+    background-color: #2ecc71; /* Couleur de fond des toasts */
+    color: white; /* Couleur du texte */
+    border-radius: 5px; /* Bords arrondis */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Ombre */
+  }
+  
+  .Toastify__toast--error {
+    background-color: #e74c3c; /* Couleur de fond pour les erreurs */
+  }
+  
+  .Toastify__toast--success {
+    background-color: #2ecc71; /* Couleur de fond pour les succès */
+  }
+  
+  /* Styles supplémentaires pour la classe personnalisée */
+  .custom-toast-container {
+    margin-top: 50px; /* Ajuster la marge si nécessaire */
+  }
+  
